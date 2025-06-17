@@ -1,8 +1,8 @@
-<img width="868" alt="image" src="https://github.com/user-attachments/assets/e9ce2f96-f6c0-41e8-ae71-0fa0bffe00bb" />
-<img width="589" alt="image" src="https://github.com/user-attachments/assets/c9d28cf7-d63d-4d3d-b694-89d3935aa223" />
-<img width="590" alt="image" src="https://github.com/user-attachments/assets/a543ce44-42c6-4dfa-99e6-8405f8cbfbc5" />
-<img width="531" alt="image" src="https://github.com/user-attachments/assets/9547662a-568f-4afe-9f29-0aeb79e09f49" />
-<img width="593" alt="image" src="https://github.com/user-attachments/assets/a0bbff21-d0f1-46b3-bb77-699534148be3" />
-<img width="521" alt="image" src="https://github.com/user-attachments/assets/800e0fc4-df25-4a15-b328-769d7637d55b" />
-<img width="543" alt="image" src="https://github.com/user-attachments/assets/6a87107b-582c-4057-a463-8665c1540f4b" />
-<img width="610" alt="image" src="https://github.com/user-attachments/assets/6b253364-bd6e-40a0-aadd-2a6ddfdfd635" />
+Opis: GeoAlbum to aplikacja mobilna umożliwiająca dodawanie zdjęć do albumu wraz z opisem oraz współrzędnymi geograficznymi. Pozwala użytkownikowi dokumentować miejsca, w których wykonano zdjęcia, i tworzyć uporządkowaną kolekcję wspomnień powiązanych z lokalizacją.
+Instrukcja: W Android Stdudio -> Settings -> Build, Execution, Deployment -> Build Tools -> Gradle -> Gradle JDK ustawić Java 21 -> Sync now
+
+[GeoAlbum_dodawanie.webm](https://github.com/user-attachments/assets/9a964913-23af-4377-a8e4-00f6a457e538)
+
+[GeoAlbum_edytowanie.webm](https://github.com/user-attachments/assets/4a036a17-7e8c-46b1-b1df-d72e2c33ecae)
+
+[GeoAlbum_usuwanie.webm](https://github.com/user-attachments/assets/20608353-f0d3-4b23-80b5-1b03412381ba)
