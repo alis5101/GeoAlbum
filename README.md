@@ -1,6 +1,6 @@
-Opis: GeoAlbum to aplikacja mobilna umożliwiająca dodawanie zdjęć do albumu wraz z opisem oraz współrzędnymi geograficznymi. Pozwala użytkownikowi dokumentować miejsca, w których wykonano zdjęcia, i tworzyć uporządkowaną kolekcję wspomnień powiązanych z lokalizacją.
+Opis: GeoAlbum to aplikacja mobilna umożliwiająca dodawanie zdjęć do albumu wraz z współrzędnymi geograficznymi. Pozwala użytkownikowi dokumentować miejsca, w których wykonano zdjęcia, i tworzyć uporządkowaną kolekcję wspomnień powiązanych z lokalizacją. Zdjęcia mogą mieć dodawane tytuły oraz opisy, które można edytować w dowolnym momencie. 
 
-Instrukcja: W Android Stdudio -> Settings -> Build, Execution, Deployment -> Build Tools -> Gradle -> Gradle JDK ustawić Java 21 -> Sync now
+Instrukcja: W Android Studio -> Settings -> Build, Execution, Deployment -> Build Tools -> Gradle -> Gradle JDK ustawić Java 21 -> Sync now
 
 [GeoAlbum_dodawanie.webm](https://github.com/user-attachments/assets/9a964913-23af-4377-a8e4-00f6a457e538)
 
